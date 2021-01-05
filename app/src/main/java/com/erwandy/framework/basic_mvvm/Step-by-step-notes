@@ -1,0 +1,25 @@
+--------------------------
+Step by step notes:
+--------------------------
+utils
+1.1 utils > Status
+1.2 utils > Resource
+
+data
+2.0 data > model > User
+3.1 data > api > ApiService
+3.2 data > api > ApiServiceImpl
+3.3 data > api > ApiHelper
+4. data > repository > MainRepository
+
+ui & layout
+5. MainActivity.java --> ui > main > view
+6. ui > main > viewmodel > MainViewModel
+7. edit: res > layout > activity_main
+8. add: res > layout > item_layout
+9. ui > main > adapter > MainAdapter
+10. ui > base > ViewMainFactory
+11. Update: ui > main > view > MainActivity
+
+manifest
+12. Add INTERNET: manifest
