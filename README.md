@@ -27,5 +27,9 @@ Basic MVVM Structured Sample
    - Resource
    - Status
    
+## Library
+- Fast Android Networking
+  https://github.com/amitshekhariitbhu/Fast-Android-Networking
+
 ## Source
 https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide
